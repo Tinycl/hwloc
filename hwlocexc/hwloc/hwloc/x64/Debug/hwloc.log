@@ -1,0 +1,26 @@
+﻿  traversal.c
+  topology.c
+c:\users\zx\desktop\hwlocexc\hwloc\hwloc\topology.c(3735): warning C4244: 'function': conversion from 'hwloc_uint64_t' to 'unsigned int', possible loss of data
+c:\users\zx\desktop\hwlocexc\hwloc\hwloc\topology.c(3736): warning C4244: 'function': conversion from 'hwloc_uint64_t' to 'unsigned int', possible loss of data
+  topology-xml.c
+  topology-xml-nolibxml.c
+  topology-x86.c
+  topology-windows.c
+  topology-synthetic.c
+  topology-noos.c
+  shmem.c
+  pci-common.c
+  misc.c
+  dolib.c
+  distances.c
+  diff.c
+  components.c
+  bitmap.c
+  bind.c
+  base64.c
+  Generating Code...
+     Creating library C:\Users\zx\Desktop\hwlocexc\hwloc\x64\Debug\hwloc.lib and object C:\Users\zx\Desktop\hwlocexc\hwloc\x64\Debug\hwloc.exp
+dolib.obj : warning LNK4217: locally defined symbol hwloc_topology_init imported in function main
+dolib.obj : warning LNK4217: locally defined symbol hwloc_topology_load imported in function main
+  hwloc.vcxproj -> C:\Users\zx\Desktop\hwlocexc\hwloc\x64\Debug\hwloc.exe
+  hwloc.vcxproj -> C:\Users\zx\Desktop\hwlocexc\hwloc\x64\Debug\hwloc.pdb (Partial PDB)
